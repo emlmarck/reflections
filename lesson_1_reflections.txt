@@ -1,0 +1,35 @@
+1. using diff to compare docs:
+
+marks the difference between 2 files
+
+a + indicates something new added
+a - indicates something removed
+
+Diff does not show the point of difference, only the line where things are different
+
+2.Having history of a file:
+
+help you compare working versions with broken ones. 
+
+allow you to make big changes without having to worry about losing your work.
+
+Allow others to collaborate and being able to identify new mistakes.
+
+3. manual commits in version control
+
+Human error can result in a loss of work (if you dont save)
+
+however you can point to important changes with your version history
+
+4. why save multiple files with eacg commit
+
+since some changes in code functionality require modification of multiple files in order to work, it makes sense to look accross file types at the same time.
+
+5.Using log and diff to see the history of files
+
+Git log shows the history of changes (by using git log --stat you can see how much has changed)
+ diff allows you to compare 2 files togther and see what has changed line by line.
+
+ 6. using version control to track changes
+
+allows you to go back and find bugs from previous commits.

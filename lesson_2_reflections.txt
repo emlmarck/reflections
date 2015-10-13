@@ -1,0 +1,5 @@
+1.git init command
+
+Initializing a repository creates a .git file that keeps track of files in repository.
+
+You need to do it in order to track files 
