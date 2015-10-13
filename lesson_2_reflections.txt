@@ -7,3 +7,5 @@ You need to do it in order to track files
 2. The staging area 
 
 The staging area is different from  a WD and the repo because it locks in the files in place. 
+
+In order to use the staging area to make only one logical change you can use the "git diff" and "git --staged" commands to look at exactly what you changed and decide what to commit when.
