@@ -3,3 +3,7 @@
 Initializing a repository creates a .git file that keeps track of files in repository.
 
 You need to do it in order to track files 
+
+2. The staging area 
+
+The staging area is different from  a WD and the repo because it locks in the files in place. 
