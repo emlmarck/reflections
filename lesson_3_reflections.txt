@@ -1,3 +1,7 @@
 1. remote or local repository?
 
 You would want to use a remote repository when your aim is to share the work with others or work collaboratively
+
+2. why would you want to pull manually rather than have your files updated automatically?
+
+In order to preserve control over the version you are working on locally in case you are not ready to commit them to the remote repository or the remote repository is not as good as your...
