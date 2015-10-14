@@ -1,1 +1,3 @@
+1. remote or local repository?
 
+You would want to use a remote repository when your aim is to share the work with others or work collaboratively
