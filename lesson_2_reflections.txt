@@ -21,3 +21,7 @@ Branches would be helpful when multiple people are working on the same project s
 diagrams help you see the entire branch structure of the repository. 
 
 Therefore you can see where you are and if there are anychanges that will not be included in the branch structure ie unreachable commits.
+
+5. mergeing
+
+allows work done separately into one master
