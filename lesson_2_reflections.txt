@@ -9,3 +9,9 @@ You need to do it in order to track files
 The staging area is different from  a WD and the repo because it locks in the files in place. 
 
 In order to use the staging area to make only one logical change you can use the "git diff" and "git --staged" commands to look at exactly what you changed and decide what to commit when.
+
+3. The power of branches
+
+With a branch you can implement experimental changes on a project without disrupting a working version. 
+
+Branches would be helpful when multiple people are working on the same project so that each developes thier own version.
