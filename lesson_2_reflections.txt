@@ -25,3 +25,9 @@ Therefore you can see where you are and if there are anychanges that will not be
 5. mergeing
 
 allows work done separately into one master
+
+6. Automatic vs manual merging
+
+automatic merging helps when things are actually different... saves lots of busy work
+
+manual merging helps when the conflicts are subtle etc...
