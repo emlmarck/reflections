@@ -15,3 +15,9 @@ In order to use the staging area to make only one logical change you can use the
 With a branch you can implement experimental changes on a project without disrupting a working version. 
 
 Branches would be helpful when multiple people are working on the same project so that each developes thier own version.
+
+4. diagrams
+
+diagrams help you see the entire branch structure of the repository. 
+
+Therefore you can see where you are and if there are anychanges that will not be included in the branch structure ie unreachable commits.
