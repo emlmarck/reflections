@@ -5,3 +5,11 @@ You would want to use a remote repository when your aim is to share the work wit
 2. why would you want to pull manually rather than have your files updated automatically?
 
 In order to preserve control over the version you are working on locally in case you are not ready to commit them to the remote repository or the remote repository is not as good as your...
+
+3. the differences between forks, clones, and branches
+
+branches act on single repository commit histories so that you can make changes to files without affecting the master
+
+clone allows you to take a whole repository along with it commit history from a remote resource to your home directory
+
+fork allows you to modeify an existing repository without affecting the orginal.
